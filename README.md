@@ -8,6 +8,7 @@
 | ------------- |:-------------:| -----:|
 [Video anomaly detection guided by clustering learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320324003017) | 2024 | [Code](https://github.com/Bun-TianYi/Video-anomaly-detection-guided-by-clustering-learning)
 [Toward Video Anomaly Retrieval From Video Anomaly Detection: New Benchmarks and Model](https://ieeexplore.ieee.org/abstract/document/10471334) | 2024 | -
+[Multi-Scale Video Anomaly Detection by Multi-Grained Spatio-Temporal Representation Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Multi-Scale_Video_Anomaly_Detection_by_Multi-Grained_Spatio-Temporal_Representation_Learning_CVPR_2024_paper.pdf) | 2024 | -
 
 
 ---
