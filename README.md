@@ -17,8 +17,13 @@
 [Context-aware Video Anomaly Detection in Long-Term Datasets](https://openaccess.thecvf.com/content/CVPR2024W/VAND/papers/Yang_Context-aware_Video_Anomaly_Detection_in_Long-Term_Datasets_CVPRW_2024_paper.pdf) | 2024 | [Code] | 
 [Harnessing Large Language Models for Training-free Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Zanella_Harnessing_Large_Language_Models_for_Training-free_Video_Anomaly_Detection_CVPR_2024_paper.pdf) | 2024 | [Code](https://lucazanella.github.io/lavad/) | LLM
 [Video anomaly detection guided by clustering learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320324003017) | 2024 | [Code](https://github.com/Bun-TianYi/Video-anomaly-detection-guided-by-clustering-learning) | Clustering
+[Attention-guided generator with dual discriminator GAN for real-time video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0952197623020146) | 2024 | [Code](https://github.com/Rituraj-ksi/A2D-GAN) | GAN
+[Context Recovery and Knowledge Retrieval: A Novel Two-Stream Framework for Video Anomaly Detection](https://ieeexplore.ieee.org/document/10462921?denied=) | 2024 | [Code] | UNet
+[Contracting skeletal kinematics for human-related video anomaly detection](https://www.sciencedirect.com/science/article/pii/S0031320324005685) | 2024 | [Code](https://github.com/aleflabo/COSKAD) | GRAPH
+[A Coarse-to-Fine Pseudo-Labeling (C2FPL) Framework for Unsupervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024/papers/Al-lahham_A_Coarse-To-Fine_Pseudo-Labeling_C2FPL_Framework_for_Unsupervised_Video_Anomaly_Detection_WACV_2024_paper.pdf) | 2024 | [Code](https://github.com/AnasEmad11/C2FPL) | 
 []() | 2024 | [Code]() | 
 []() | 2024 | [Code]() | 
+
 
 
 
@@ -29,7 +34,6 @@
 
 Paper | Year | Code | Notes
 --- | --- | --- | ---
-*Still* | `renders` | **nicely**
 [BatchNorm-based Weakly Supervised Video Anomaly Detection](https://arxiv.org/pdf/2311.15367v1) | 2024 | [Code](https://github.com/cool-xuan/bn-wvad)
 [VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection](https://ojs.aaai.org/index.php/AAAI/article/view/28423/28826) | 2024 | [Code](https://github.com/nwpu-zxr/VadCLIP)
 [Open-Vocabulary Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Open-Vocabulary_Video_Anomaly_Detection_CVPR_2024_paper.pdf) | 2024 | -
@@ -41,7 +45,7 @@ Paper | Year | Code | Notes
 [Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Text_Prompt_with_Normality_Guidance_for_Weakly_Supervised_Video_Anomaly_CVPR_2024_paper.pdf) | 2024 | [Code]() | CLIP
 [Learning Prompt-Enhanced Context Features for Weakly-Supervised Video Anomaly Detection](https://arxiv.org/pdf/2306.14451) | 2024 | [Code](https://github.com/yujiangpu20/PEL4VAD) | I3D + CLIP
 [Real-Time Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024/papers/Karim_Real-Time_Weakly_Supervised_Video_Anomaly_Detection_WACV_2024_paper.pdf) | 2024 | [Code] | 
-[]() | 2024 | [Code]() | 
+[Overlooked Video Classification in Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024W/RWS/papers/Tan_Overlooked_Video_Classification_in_Weakly_Supervised_Video_Anomaly_Detection_WACVW_2024_paper.pdf) | 2024 | [Code](https://github.com/wjtan99/BERT_Anomaly_Video_Classification) | BERT
 []() | 2024 | [Code]() | 
 []() | 2024 | [Code]() | 
 []() | 2024 | [Code]() | 
