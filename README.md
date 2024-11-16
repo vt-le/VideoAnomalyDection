@@ -14,7 +14,12 @@
 [Multi-Scale Video Anomaly Detection by Multi-Grained Spatio-Temporal Representation Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Multi-Scale_Video_Anomaly_Detection_by_Multi-Grained_Spatio-Temporal_Representation_Learning_CVPR_2024_paper.pdf) | 2024 | -
 [Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models](https://arxiv.org/pdf/2407.10299) | 2024 | [Code](https://github.com/Yuchen413/AnomalyRuler) | MM
 [Video Anomaly Detection and Explanation via Large Language Models](https://arxiv.org/pdf/2401.05702) | 2024 | [Code]() | LLM
-[Context-aware Video Anomaly Detection in Long-Term Datasets](https://openaccess.thecvf.com/content/CVPR2024W/VAND/papers/Yang_Context-aware_Video_Anomaly_Detection_in_Long-Term_Datasets_CVPRW_2024_paper.pdf) | 2024 | [Code]() | 
+[Context-aware Video Anomaly Detection in Long-Term Datasets](https://openaccess.thecvf.com/content/CVPR2024W/VAND/papers/Yang_Context-aware_Video_Anomaly_Detection_in_Long-Term_Datasets_CVPRW_2024_paper.pdf) | 2024 | [Code] | 
+[Harnessing Large Language Models for Training-free Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Zanella_Harnessing_Large_Language_Models_for_Training-free_Video_Anomaly_Detection_CVPR_2024_paper.pdf) | 2024 | [Code](https://lucazanella.github.io/lavad/) | LLM
+[Video anomaly detection guided by clustering learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320324003017) | 2024 | [Code](https://github.com/Bun-TianYi/Video-anomaly-detection-guided-by-clustering-learning) | Clustering
+[]() | 2024 | [Code]() | 
+[]() | 2024 | [Code]() | 
+
 
 
 
@@ -34,7 +39,8 @@ Paper | Year | Code | Notes
 [Learning Prompt-Enhanced Context Features for Weakly-Supervised Video Anomaly Detection](https://arxiv.org/pdf/2306.14451) | 2023 | [Code](https://github.com/yujiangpu20/PEL4VAD)
 [BatchNorm-based Weakly Supervised Video Anomaly Detection](https://arxiv.org/pdf/2311.15367) | 2024 | [Code](https://github.com/cool-xuan/BN-WVAD) | I3D
 [Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Text_Prompt_with_Normality_Guidance_for_Weakly_Supervised_Video_Anomaly_CVPR_2024_paper.pdf) | 2024 | [Code]() | CLIP
-
+[Learning Prompt-Enhanced Context Features for Weakly-Supervised Video Anomaly Detection](https://arxiv.org/pdf/2306.14451) | 2024 | [Code](https://github.com/yujiangpu20/PEL4VAD) | I3D + CLIP
+[]() | 2024 | [Code]() | 
 []() | 2024 | [Code]() | 
 
 
