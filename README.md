@@ -21,8 +21,8 @@
 [Context Recovery and Knowledge Retrieval: A Novel Two-Stream Framework for Video Anomaly Detection](https://ieeexplore.ieee.org/document/10462921?denied=) | 2024 | [Code] | UNet
 [Contracting skeletal kinematics for human-related video anomaly detection](https://www.sciencedirect.com/science/article/pii/S0031320324005685) | 2024 | [Code](https://github.com/aleflabo/COSKAD) | GRAPH
 [A Coarse-to-Fine Pseudo-Labeling (C2FPL) Framework for Unsupervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024/papers/Al-lahham_A_Coarse-To-Fine_Pseudo-Labeling_C2FPL_Framework_for_Unsupervised_Video_Anomaly_Detection_WACV_2024_paper.pdf) | 2024 | [Code](https://github.com/AnasEmad11/C2FPL) | 
-[]() | 2024 | [Code]() | 
-[]() | 2024 | [Code]() | 
+[Dual GroupGAN: An unsupervised four-competitor (2V2) approach for video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0031320324002516) | 2024 | [Code] | GAN
+[**Multi-Scale Video Anomaly Detection by Multi-Grained Spatio-Temporal Representation Learning**](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Multi-Scale_Video_Anomaly_Detection_by_Multi-Grained_Spatio-Temporal_Representation_Learning_CVPR_2024_paper.pdf) | 2024 | [Code] | 
 
 
 
