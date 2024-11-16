@@ -12,6 +12,7 @@
 [Video anomaly detection guided by clustering learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320324003017) | 2024 | [Code](https://github.com/Bun-TianYi/Video-anomaly-detection-guided-by-clustering-learning)
 [Toward Video Anomaly Retrieval From Video Anomaly Detection: New Benchmarks and Model](https://ieeexplore.ieee.org/abstract/document/10471334) | 2024 | -
 [Multi-Scale Video Anomaly Detection by Multi-Grained Spatio-Temporal Representation Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Multi-Scale_Video_Anomaly_Detection_by_Multi-Grained_Spatio-Temporal_Representation_Learning_CVPR_2024_paper.pdf) | 2024 | -
+[Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models](https://arxiv.org/pdf/2407.10299) | 2024 | [Code](https://github.com/Yuchen413/AnomalyRuler) | MM
 
 
 ---
@@ -25,8 +26,10 @@ Paper | Year | Code | Notes
 [Open-Vocabulary Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Open-Vocabulary_Video_Anomaly_Detection_CVPR_2024_paper.pdf) | 2024 | -
 [Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Text_Prompt_with_Normality_Guidance_for_Weakly_Supervised_Video_Anomaly_CVPR_2024_paper.pdf) | 2024 | -
 [VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection](https://ojs.aaai.org/index.php/AAAI/article/download/28423/28826) | 2024 | [Code](https://github.com/nwpu-zxr/VadCLIP) | MM
-[Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models](https://arxiv.org/pdf/2407.10299) | 2024 | [Code](https://github.com/Yuchen413/AnomalyRuler) | MM
+[Weakly Supervised Video Anomaly Detection and Localization with Spatio-Temporal Prompts](https://arxiv.org/pdf/2408.05905) | 2024 | [Code] | LLM
 [Learning Prompt-Enhanced Context Features for Weakly-Supervised Video Anomaly Detection](https://arxiv.org/pdf/2306.14451) | 2023 | [Code](https://github.com/yujiangpu20/PEL4VAD)
+[]() | 2024 | [Code]() | 
+
 
 ---
 ## Datasets
