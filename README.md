@@ -18,7 +18,7 @@
 ## Weakly Supervised VAD
 
 Paper | Year | Code | Notes
---- | --- | ---
+--- | --- | --- | ---
 *Still* | `renders` | **nicely**
 [BatchNorm-based Weakly Supervised Video Anomaly Detection](https://arxiv.org/pdf/2311.15367v1) | 2024 | [Code](https://github.com/cool-xuan/bn-wvad)
 [VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection](https://ojs.aaai.org/index.php/AAAI/article/view/28423/28826) | 2024 | [Code](https://github.com/nwpu-zxr/VadCLIP)
