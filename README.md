@@ -23,8 +23,10 @@
 [A Coarse-to-Fine Pseudo-Labeling (C2FPL) Framework for Unsupervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024/papers/Al-lahham_A_Coarse-To-Fine_Pseudo-Labeling_C2FPL_Framework_for_Unsupervised_Video_Anomaly_Detection_WACV_2024_paper.pdf) | 2024 | [Code](https://github.com/AnasEmad11/C2FPL) | 
 [Dual GroupGAN: An unsupervised four-competitor (2V2) approach for video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0031320324002516) | 2024 | [Code] | GAN
 [**Multi-Scale Video Anomaly Detection by Multi-Grained Spatio-Temporal Representation Learning**](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Multi-Scale_Video_Anomaly_Detection_by_Multi-Grained_Spatio-Temporal_Representation_Learning_CVPR_2024_paper.pdf) | 2024 | [Code] | 
-
-
+[**Collaborative Learning of Anomalies with Privacy (CLAP) for Unsupervised Video Anomaly Detection: A New Baseline**](https://openaccess.thecvf.com/content/CVPR2024/papers/Al-lahham_Collaborative_Learning_of_Anomalies_with_Privacy_CLAP_for_Unsupervised_Video_CVPR_2024_paper.pdf) | 2024 | [Code](https://github.com/AnasEmad11/CLAP) | 
+[**Ada-VAD: Domain Adaptable Video Anomaly Detection**](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.73) | 2024 | [Code](https://github.com/donglgcn/ADA-VAD) | 
+[]() | 2024 | [Code]() | 
+[]() | 2024 | [Code]() | 
 
 
 
@@ -47,7 +49,11 @@ Paper | Year | Code | Notes
 [Real-Time Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024/papers/Karim_Real-Time_Weakly_Supervised_Video_Anomaly_Detection_WACV_2024_paper.pdf) | 2024 | [Code] | 
 [Overlooked Video Classification in Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024W/RWS/papers/Tan_Overlooked_Video_Classification_in_Weakly_Supervised_Video_Anomaly_Detection_WACVW_2024_paper.pdf) | 2024 | [Code](https://github.com/wjtan99/BERT_Anomaly_Video_Classification) | BERT
 [**Prompt-Enhanced Multiple Instance Learning for Weakly Supervised Video Anomaly Detection**](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Prompt-Enhanced_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_Detection_CVPR_2024_paper.pdf) | 2024 | [Code](https://github.com/Junxi-Chen/PE-MIL) | Prompt
-[Cross-Modal Fusion and Attention Mechanism for Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024W/MULA/papers/Ghadiya_Cross-Modal_Fusion_and_Attention_Mechanism_for_Weakly_Supervised_Video_Anomaly_CVPRW_2024_paper.pdf) | 2024 | [Code]() | 
+[Cross-Modal Fusion and Attention Mechanism for Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024W/MULA/papers/Ghadiya_Cross-Modal_Fusion_and_Attention_Mechanism_for_Weakly_Supervised_Video_Anomaly_CVPRW_2024_paper.pdf) | 2024 | [Code] | Visual + Audio
+[]() | 2024 | [Code]() | 
+[]() | 2024 | [Code]() | 
+[]() | 2024 | [Code]() | 
+[]() | 2024 | [Code]() | 
 []() | 2024 | [Code]() | 
 
 
@@ -67,7 +73,7 @@ Paper | Year
 [Video anomaly detection: A systematic review of issues and prospects](https://www.sciencedirect.com/science/article/abs/pii/S0925231224004971)
 [A survey on deep learning-based real-time crowd anomaly detection for secure distributed video surveillance](https://www.researchgate.net/profile/Mohamadreza-Khosravi/publication/352755697_A_survey_on_deep_learning-based_real-time_crowd_anomaly_detection_for_secure_distributed_video_surveillance/links/60ddbdeca6fdccb745fb821a/A-survey-on-deep-learning-based-real-time-crowd-anomaly-detection-for-secure-distributed-video-surveillance.pdf) | 2024 
 [A critical study on the recent deep learning based semi-supervised video anomaly detection methods](https://link.springer.com/article/10.1007/s11042-023-16445-z) | 2024 
-[]() | 2024 |
+[A comprehensive review of datasets for detection and localization of video anomalies: a step towards data-centric artificial intelligence-based video anomaly detection](https://link.springer.com/article/10.1007/s11042-023-17889-z) | 2024 |
 []() | 2024 |
 
 
