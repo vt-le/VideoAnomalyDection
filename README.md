@@ -17,13 +17,15 @@
 ---
 ## Weakly Supervised VAD
 
-Paper | Year | Code
+Paper | Year | Code | Notes
 --- | --- | ---
 *Still* | `renders` | **nicely**
 [BatchNorm-based Weakly Supervised Video Anomaly Detection](https://arxiv.org/pdf/2311.15367v1) | 2024 | [Code](https://github.com/cool-xuan/bn-wvad)
 [VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection](https://ojs.aaai.org/index.php/AAAI/article/view/28423/28826) | 2024 | [Code](https://github.com/nwpu-zxr/VadCLIP)
 [Open-Vocabulary Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Open-Vocabulary_Video_Anomaly_Detection_CVPR_2024_paper.pdf) | 2024 | -
 [Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Text_Prompt_with_Normality_Guidance_for_Weakly_Supervised_Video_Anomaly_CVPR_2024_paper.pdf) | 2024 | -
+[VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection] | 2024 [Code](https://github.com/nwpu-zxr/VadCLIP) | MM
+[Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models] | 2024 [Code] (https://github.com/Yuchen413/AnomalyRuler) | MM
 [Learning Prompt-Enhanced Context Features for Weakly-Supervised Video Anomaly Detection](https://arxiv.org/pdf/2306.14451) | 2023 | [Code](https://github.com/yujiangpu20/PEL4VAD)
 
 ---
