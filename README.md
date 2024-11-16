@@ -46,8 +46,8 @@ Paper | Year | Code | Notes
 [Learning Prompt-Enhanced Context Features for Weakly-Supervised Video Anomaly Detection](https://arxiv.org/pdf/2306.14451) | 2024 | [Code](https://github.com/yujiangpu20/PEL4VAD) | I3D + CLIP
 [Real-Time Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024/papers/Karim_Real-Time_Weakly_Supervised_Video_Anomaly_Detection_WACV_2024_paper.pdf) | 2024 | [Code] | 
 [Overlooked Video Classification in Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024W/RWS/papers/Tan_Overlooked_Video_Classification_in_Weakly_Supervised_Video_Anomaly_Detection_WACVW_2024_paper.pdf) | 2024 | [Code](https://github.com/wjtan99/BERT_Anomaly_Video_Classification) | BERT
-[]() | 2024 | [Code]() | 
-[]() | 2024 | [Code]() | 
+[**Prompt-Enhanced Multiple Instance Learning for Weakly Supervised Video Anomaly Detection**](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Prompt-Enhanced_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_Detection_CVPR_2024_paper.pdf) | 2024 | [Code](https://github.com/Junxi-Chen/PE-MIL) | Prompt
+[Cross-Modal Fusion and Attention Mechanism for Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024W/MULA/papers/Ghadiya_Cross-Modal_Fusion_and_Attention_Mechanism_for_Weakly_Supervised_Video_Anomaly_CVPRW_2024_paper.pdf) | 2024 | [Code]() | 
 []() | 2024 | [Code]() | 
 
 
