@@ -40,8 +40,12 @@ Paper | Year | Code | Notes
 [BatchNorm-based Weakly Supervised Video Anomaly Detection](https://arxiv.org/pdf/2311.15367) | 2024 | [Code](https://github.com/cool-xuan/BN-WVAD) | I3D
 [Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Text_Prompt_with_Normality_Guidance_for_Weakly_Supervised_Video_Anomaly_CVPR_2024_paper.pdf) | 2024 | [Code]() | CLIP
 [Learning Prompt-Enhanced Context Features for Weakly-Supervised Video Anomaly Detection](https://arxiv.org/pdf/2306.14451) | 2024 | [Code](https://github.com/yujiangpu20/PEL4VAD) | I3D + CLIP
+[Real-Time Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024/papers/Karim_Real-Time_Weakly_Supervised_Video_Anomaly_Detection_WACV_2024_paper.pdf) | 2024 | [Code] | 
 []() | 2024 | [Code]() | 
 []() | 2024 | [Code]() | 
+[]() | 2024 | [Code]() | 
+[]() | 2024 | [Code]() | 
+
 
 
 
@@ -58,6 +62,10 @@ Paper
 [Skeletal Video Anomaly Detection Using Deep Learning: Survey, Challenges, and Future Directions](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10453042)
 [Video anomaly detection: A systematic review of issues and prospects](https://www.sciencedirect.com/science/article/abs/pii/S0925231224004971)
 [A survey on deep learning-based real-time crowd anomaly detection for secure distributed video surveillance](https://www.researchgate.net/profile/Mohamadreza-Khosravi/publication/352755697_A_survey_on_deep_learning-based_real-time_crowd_anomaly_detection_for_secure_distributed_video_surveillance/links/60ddbdeca6fdccb745fb821a/A-survey-on-deep-learning-based-real-time-crowd-anomaly-detection-for-secure-distributed-video-surveillance.pdf) | 2024 | [Code]() | 
+[A critical study on the recent deep learning based semi-supervised video anomaly detection methods](https://link.springer.com/article/10.1007/s11042-023-16445-z) | 2024 | [Code] | 
+[]() | 2024 | [Code]() | 
+[]() | 2024 | [Code]() | 
+
 
 
 ---
