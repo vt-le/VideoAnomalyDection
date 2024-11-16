@@ -25,6 +25,11 @@
 [**Multi-Scale Video Anomaly Detection by Multi-Grained Spatio-Temporal Representation Learning**](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Multi-Scale_Video_Anomaly_Detection_by_Multi-Grained_Spatio-Temporal_Representation_Learning_CVPR_2024_paper.pdf) | 2024 | [Code] | 
 [**Collaborative Learning of Anomalies with Privacy (CLAP) for Unsupervised Video Anomaly Detection: A New Baseline**](https://openaccess.thecvf.com/content/CVPR2024/papers/Al-lahham_Collaborative_Learning_of_Anomalies_with_Privacy_CLAP_for_Unsupervised_Video_CVPR_2024_paper.pdf) | 2024 | [Code](https://github.com/AnasEmad11/CLAP) | 
 [**Ada-VAD: Domain Adaptable Video Anomaly Detection**](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.73) | 2024 | [Code](https://github.com/donglgcn/ADA-VAD) | 
+[Cross-modality integration framework with prediction, perception and discrimination for video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0893608024000546) | 2024 | [Code] | Visual + Text
+[MULDE: Multiscale Log-Density Estimation via Denoising Score Matching for Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Micorek_MULDE_Multiscale_Log-Density_Estimation_via_Denoising_Score_Matching_for_Video_CVPR_2024_paper.pdf) | 2024 | [Code](https://github.com/jakubmicorek/MULDE-Multiscale-Log-Density-Estimation-via-Denoising-Score-Matching-for-Video-Anomaly-Detection) | Denoising score matching
+[Memory-enhanced appearance-motion consistency framework for video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0140366424000045) | 2024 | [Code] | RGB +Flow
+[Enhancing Video Anomaly Detection Using Spatio-Temporal Autoencoders and Convolutional LSTM Networks](https://link.springer.com/article/10.1007/s42979-023-02542-1) | 2024 | [Code] | 
+[]() | 2024 | [Code]() | 
 []() | 2024 | [Code]() | 
 []() | 2024 | [Code]() | 
 
