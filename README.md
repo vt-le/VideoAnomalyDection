@@ -29,7 +29,7 @@
 [Memory-enhanced appearance-motion consistency framework for video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0140366424000045) | 2024 | [Code] | RGB +Flow
 [Enhancing Video Anomaly Detection Using Spatio-Temporal Autoencoders and Convolutional LSTM Networks](https://link.springer.com/article/10.1007/s42979-023-02542-1) | 2024 | [Code] | 
 [Spatially Aware Fusion in 3D Convolutional Autoencoders for Video Anomaly Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10613764) | 2024 | [Code] | 3D Convolutional Autoencoder
-[]() | 2024 | [Code]() | 
+[Anomaly detection in surveillance videos using deep autoencoder](https://link.springer.com/article/10.1007/s41870-023-01659-z) | 2024 | [Code] | 
 []() | 2024 | [Code]() | 
 
 
@@ -56,19 +56,10 @@ Paper | Year | Code | Notes
 [Cross-Modal Fusion and Attention Mechanism for Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024W/MULA/papers/Ghadiya_Cross-Modal_Fusion_and_Attention_Mechanism_for_Weakly_Supervised_Video_Anomaly_CVPRW_2024_paper.pdf) | 2024 | [Code] | Visual + Audio
 [GlanceVAD: Exploring Glance Supervision for Label-efficient Video Anomaly Detection](https://arxiv.org/pdf/2403.06154) | 2024 | [Code](https://github.com/pipixin321/GlanceVAD) | I3D + Pseudo-labels
 [TDSD: Text-Driven Scene-Decoupled Weakly Supervised Video Anomaly Detection](https://openreview.net/pdf?id=TAVtkpjS9P) | 2024 | [Code](https://github.com/shengyangsun/TDSD) | <img src="https://github.com/user-attachments/assets/3d95f37d-2c4f-46a5-baed-c5e3b48aec46" alt="placeholder" width="75%" height="75%">
-
-
-
-
-
-
-
-
-
-
+[A Multi-Head Approach with Shuffled Segments for Weakly-Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024W/RWS/papers/AlMarri_A_Multi-Head_Approach_With_Shuffled_Segments_for_Weakly-Supervised_Video_Anomaly_WACVW_2024_paper.pdf) | 2024 | [Code] | <img src="https://github.com/user-attachments/assets/c5b4fb37-5411-41ba-932e-4166dfc981db" alt="placeholder" width="75%" height="75%">
 []() | 2024 | [Code]() | 
 []() | 2024 | [Code]() | 
-[]() | 2024 | [Code]() | 
+
 
 
 
