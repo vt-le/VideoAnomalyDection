@@ -8,7 +8,6 @@
 | ------------- |:-------------:| -----:|-----|
 [Ada-VAD: Domain Adaptable Video Anomaly Detection](https://epubs.siam.org/doi/10.1137/1.9781611978032.73)|2024|[Code](https://github.com/donglgcn/ADA-VAD) | Few-shot cross-domain video anomaly detection
 [Attention-guided generator with dual discriminator GAN for real-time video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0952197623020146)|2024|[Code](https://github.com/Rituraj-ksi/A2D-GAN) |  Generative Adversarial Networks including an Attention-guided Generator with Dual Discriminator GAN (A2D-GAN)
-[//]: # []()|2024|[Code]() | 
 [Video anomaly detection guided by clustering learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320324003017) | 2024 | [Code](https://github.com/Bun-TianYi/Video-anomaly-detection-guided-by-clustering-learning)
 [Toward Video Anomaly Retrieval From Video Anomaly Detection: New Benchmarks and Model](https://ieeexplore.ieee.org/abstract/document/10471334) | 2024 | -
 [Multi-Scale Video Anomaly Detection by Multi-Grained Spatio-Temporal Representation Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Multi-Scale_Video_Anomaly_Detection_by_Multi-Grained_Spatio-Temporal_Representation_Learning_CVPR_2024_paper.pdf) | 2024 | -
@@ -29,7 +28,7 @@
 [MULDE: Multiscale Log-Density Estimation via Denoising Score Matching for Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Micorek_MULDE_Multiscale_Log-Density_Estimation_via_Denoising_Score_Matching_for_Video_CVPR_2024_paper.pdf) | 2024 | [Code](https://github.com/jakubmicorek/MULDE-Multiscale-Log-Density-Estimation-via-Denoising-Score-Matching-for-Video-Anomaly-Detection) | Denoising score matching
 [Memory-enhanced appearance-motion consistency framework for video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0140366424000045) | 2024 | [Code] | RGB +Flow
 [Enhancing Video Anomaly Detection Using Spatio-Temporal Autoencoders and Convolutional LSTM Networks](https://link.springer.com/article/10.1007/s42979-023-02542-1) | 2024 | [Code] | 
-[]() | 2024 | [Code]() | 
+[Spatially Aware Fusion in 3D Convolutional Autoencoders for Video Anomaly Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10613764) | 2024 | [Code] | 3D Convolutional Autoencoder
 []() | 2024 | [Code]() | 
 []() | 2024 | [Code]() | 
 
@@ -55,8 +54,9 @@ Paper | Year | Code | Notes
 [Overlooked Video Classification in Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024W/RWS/papers/Tan_Overlooked_Video_Classification_in_Weakly_Supervised_Video_Anomaly_Detection_WACVW_2024_paper.pdf) | 2024 | [Code](https://github.com/wjtan99/BERT_Anomaly_Video_Classification) | BERT
 [**Prompt-Enhanced Multiple Instance Learning for Weakly Supervised Video Anomaly Detection**](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Prompt-Enhanced_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_Detection_CVPR_2024_paper.pdf) | 2024 | [Code](https://github.com/Junxi-Chen/PE-MIL) | Prompt
 [Cross-Modal Fusion and Attention Mechanism for Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024W/MULA/papers/Ghadiya_Cross-Modal_Fusion_and_Attention_Mechanism_for_Weakly_Supervised_Video_Anomaly_CVPRW_2024_paper.pdf) | 2024 | [Code] | Visual + Audio
-[]() | 2024 | [Code]() | 
-[]() | 2024 | [Code]() | 
+[GlanceVAD: Exploring Glance Supervision for Label-efficient Video Anomaly Detection](https://arxiv.org/pdf/2403.06154) | 2024 | [Code](https://github.com/pipixin321/GlanceVAD) | I3D + Pseudo-labels
+[TDSD: Text-Driven Scene-Decoupled Weakly Supervised Video Anomaly Detection](https://openreview.net/pdf?id=TAVtkpjS9P) | 2024 | [Code](https://github.com/shengyangsun/TDSD) | I3D + CLIP
+![alt text]([http://url/to/img.png](https://the.me/wp-content/uploads/2014/08/story_lena_lenna_1.jpg))
 []() | 2024 | [Code]() | 
 []() | 2024 | [Code]() | 
 []() | 2024 | [Code]() | 
