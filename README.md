@@ -55,7 +55,14 @@ Paper | Year | Code | Notes
 [**Prompt-Enhanced Multiple Instance Learning for Weakly Supervised Video Anomaly Detection**](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Prompt-Enhanced_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_Detection_CVPR_2024_paper.pdf) | 2024 | [Code](https://github.com/Junxi-Chen/PE-MIL) | Prompt
 [Cross-Modal Fusion and Attention Mechanism for Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024W/MULA/papers/Ghadiya_Cross-Modal_Fusion_and_Attention_Mechanism_for_Weakly_Supervised_Video_Anomaly_CVPRW_2024_paper.pdf) | 2024 | [Code] | Visual + Audio
 [GlanceVAD: Exploring Glance Supervision for Label-efficient Video Anomaly Detection](https://arxiv.org/pdf/2403.06154) | 2024 | [Code](https://github.com/pipixin321/GlanceVAD) | I3D + Pseudo-labels
-[TDSD: Text-Driven Scene-Decoupled Weakly Supervised Video Anomaly Detection](https://openreview.net/pdf?id=TAVtkpjS9P) | 2024 | [Code](https://github.com/shengyangsun/TDSD) | ![restaurant](https://github.com/user-attachments/assets/ed5159fc-76c5-4fa9-b3e1-ab4efc3c1b05)
+[TDSD: Text-Driven Scene-Decoupled Weakly Supervised Video Anomaly Detection](https://openreview.net/pdf?id=TAVtkpjS9P) | 2024 | [Code](https://github.com/shengyangsun/TDSD) | <img src="https://github.com/user-attachments/assets/3d95f37d-2c4f-46a5-baed-c5e3b48aec46" alt="placeholder" width="75%" height="75%">
+
+
+
+
+
+
+
 
 
 
