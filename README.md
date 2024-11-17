@@ -57,6 +57,8 @@ Paper | Year | Code | Notes
 [GlanceVAD: Exploring Glance Supervision for Label-efficient Video Anomaly Detection](https://arxiv.org/pdf/2403.06154) | 2024 | [Code](https://github.com/pipixin321/GlanceVAD) | I3D + Pseudo-labels
 [TDSD: Text-Driven Scene-Decoupled Weakly Supervised Video Anomaly Detection](https://openreview.net/pdf?id=TAVtkpjS9P) | 2024 | [Code](https://github.com/shengyangsun/TDSD) | I3D + CLIP
 ![alt text]([http://url/to/img.png](https://en.wikipedia.org/wiki/Lenna#/media/File:Lenna_(test_image).png))
+![restaurant](https://github.com/user-attachments/assets/ed5159fc-76c5-4fa9-b3e1-ab4efc3c1b05)
+
 []() | 2024 | [Code]() | 
 []() | 2024 | [Code]() | 
 []() | 2024 | [Code]() | 
