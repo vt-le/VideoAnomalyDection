@@ -30,7 +30,15 @@
 [Enhancing Video Anomaly Detection Using Spatio-Temporal Autoencoders and Convolutional LSTM Networks](https://link.springer.com/article/10.1007/s42979-023-02542-1) | 2024 | [Code] | 
 [Spatially Aware Fusion in 3D Convolutional Autoencoders for Video Anomaly Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10613764) | 2024 | [Code] | 3D Convolutional Autoencoder
 [Anomaly detection in surveillance videos using deep autoencoder](https://link.springer.com/article/10.1007/s41870-023-01659-z) | 2024 | [Code] | 
+[CVAD-GAN: Constrained video anomaly detection via generative adversarial network](https://www.sciencedirect.com/science/article/abs/pii/S0262885624000532) | 2024 | [Code](https://github.com/Rituraj-ksi/CVAD-GAN/tree/main) | <img src="https://github.com/user-attachments/assets/27752070-1068-41cc-b048-0f45010b86a8" alt="placeholder" width="75%" height="75%">
 []() | 2024 | [Code]() | 
+[Self-Distilled Masked Auto-Encoders are Efficient Video Anomaly Detectors](https://openaccess.thecvf.com/content/CVPR2024/papers/Ristea_Self-Distilled_Masked_Auto-Encoders_are_Efficient_Video_Anomaly_Detectors_CVPR_2024_paper.pdf) | 2024 | [Code](https://github.com/ristea/aed-mae) | <img src="https://github.com/user-attachments/assets/4e155300-36f3-42af-8801-d3d4a4d98138" alt="placeholder" width="70%" height="70%">
+[VADiffusion: Compressed Domain Information Guided Conditional Diffusion for Video Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10480695) | 2024 | [Code](https://github.com/LHaoooo/VADiffusion) | 
+[]() | 2024 | [Code]() | 
+[]() | 2024 | [Code]() | 
+
+
+
 
 
 
@@ -57,7 +65,7 @@ Paper | Year | Code | Notes
 [GlanceVAD: Exploring Glance Supervision for Label-efficient Video Anomaly Detection](https://arxiv.org/pdf/2403.06154) | 2024 | [Code](https://github.com/pipixin321/GlanceVAD) | I3D + Pseudo-labels
 [TDSD: Text-Driven Scene-Decoupled Weakly Supervised Video Anomaly Detection](https://openreview.net/pdf?id=TAVtkpjS9P) | 2024 | [Code](https://github.com/shengyangsun/TDSD) | <img src="https://github.com/user-attachments/assets/3d95f37d-2c4f-46a5-baed-c5e3b48aec46" alt="placeholder" width="75%" height="75%">
 [A Multi-Head Approach with Shuffled Segments for Weakly-Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024W/RWS/papers/AlMarri_A_Multi-Head_Approach_With_Shuffled_Segments_for_Weakly-Supervised_Video_Anomaly_WACVW_2024_paper.pdf) | 2024 | [Code] | <img src="https://github.com/user-attachments/assets/c5b4fb37-5411-41ba-932e-4166dfc981db" alt="placeholder" width="75%" height="75%">
-[]() | 2024 | [Code]() | 
+[Diffusion-based normality pre-training for weakly supervised video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0957417424008790) | 2024 | [Code]() | 
 []() | 2024 | [Code]() | 
 
 
@@ -79,7 +87,7 @@ Paper | Year
 [A survey on deep learning-based real-time crowd anomaly detection for secure distributed video surveillance](https://www.researchgate.net/profile/Mohamadreza-Khosravi/publication/352755697_A_survey_on_deep_learning-based_real-time_crowd_anomaly_detection_for_secure_distributed_video_surveillance/links/60ddbdeca6fdccb745fb821a/A-survey-on-deep-learning-based-real-time-crowd-anomaly-detection-for-secure-distributed-video-surveillance.pdf) | 2024 
 [A critical study on the recent deep learning based semi-supervised video anomaly detection methods](https://link.springer.com/article/10.1007/s11042-023-16445-z) | 2024 
 [A comprehensive review of datasets for detection and localization of video anomalies: a step towards data-centric artificial intelligence-based video anomaly detection](https://link.springer.com/article/10.1007/s11042-023-17889-z) | 2024 |
-[]() | 2024 |
+[Networking Systems for Video Anomaly Detection: A Tutorial and Survey](https://arxiv.org/pdf/2405.10347) | 2024 |
 
 
 
