@@ -43,10 +43,11 @@
 [DAST-Net: Dense visual attention augmented spatio-temporal network for unsupervised video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0925231224002157) | 2024 | [Code] | <img src="https://github.com/user-attachments/assets/acdaa956-100b-47fc-8068-3af9318ea791" alt="placeholder" width="75%" height="75%">
 [ANOMALY DETECTION IN SATELLITE VIDEOS USING DIFFUSION MODELS](https://arxiv.org/pdf/2306.05376) | 2024 | [Code](https://github.com/a04101999/Anomaly-Detection-in-Satellite-Videos-using-Diffusion-Models) | <img src="https://github.com/user-attachments/assets/4b631c8f-5256-495d-bc6b-e277bea719ac" alt="placeholder" width="75%" height="75%">
 [Evolving graph-based video crowd anomaly detection](https://rest.neptune-prod.its.unimelb.edu.au/server/api/core/bitstreams/979e7b44-0798-48da-924d-28fbe930ae0b/content) | 2024 | [Code] | <img src="https://github.com/user-attachments/assets/3a7468b4-7bee-4692-a6b8-318631de8192" alt="placeholder" width="75%" height="75%">
+[Feature Reconstruction With Disruption for Unsupervised Video Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10539327) | 2024 | [Code](https://github.com/tcc-power/FRD-unsupervised-video-anomaly-detection) | <img src="https://github.com/user-attachments/assets/c1ef7fde-a61b-42bd-b09d-8cb00edbfdac" alt="placeholder" width="75%" height="75%">
 []() | 2024 | [Code]() | <img src="" alt="placeholder" width="75%" height="75%">
 []() | 2024 | [Code]() | <img src="" alt="placeholder" width="75%" height="75%">
 []() | 2024 | [Code]() | <img src="" alt="placeholder" width="75%" height="75%">
-[]() | 2024 | [Code]() | <img src="" alt="placeholder" width="75%" height="75%">
+
 
 
 
