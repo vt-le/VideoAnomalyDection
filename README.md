@@ -35,12 +35,13 @@
 [Self-Distilled Masked Auto-Encoders are Efficient Video Anomaly Detectors](https://openaccess.thecvf.com/content/CVPR2024/papers/Ristea_Self-Distilled_Masked_Auto-Encoders_are_Efficient_Video_Anomaly_Detectors_CVPR_2024_paper.pdf) | 2024 | [Code](https://github.com/ristea/aed-mae) | <img src="https://github.com/user-attachments/assets/4e155300-36f3-42af-8801-d3d4a4d98138" alt="placeholder" width="70%" height="70%">
 [VADiffusion: Compressed Domain Information Guided Conditional Diffusion for Video Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10480695) | 2024 | [Code](https://github.com/LHaoooo/VADiffusion) | 
 [A deep learning-assisted visual attention mechanism for anomaly detection in videos](https://link.springer.com/article/10.1007/s11042-023-17770-z) | 2024 | [Code] | 
+[Fast video anomaly detection via context-aware shortcut exploration and abnormal feature distance learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320324006289) | 2024 | [Code]() | 
+[**Delving into CLIP latent space for Video Anomaly Recognition**](https://arxiv.org/pdf/2310.02835) | 2024 | [Code](https://github.com/lucazanella/AnomalyCLIP) | <img src="https://github.com/user-attachments/assets/807b6780-c145-4e66-80bf-ca593e796af8" alt="placeholder" width="75%" height="75%">
 []() | 2024 | [Code]() | 
 []() | 2024 | [Code]() | 
 []() | 2024 | [Code]() | 
 []() | 2024 | [Code]() | 
-[]() | 2024 | [Code]() | 
-[]() | 2024 | [Code]() | 
+
 
 
 
