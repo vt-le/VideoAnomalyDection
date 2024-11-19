@@ -38,13 +38,15 @@
 [Fast video anomaly detection via context-aware shortcut exploration and abnormal feature distance learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320324006289) | 2024 | [Code]() | <img src="https://github.com/user-attachments/assets/ccf2be1d-3e85-4837-968c-5a675abeb055" alt="placeholder" width="75%" height="75%">
 [**Delving into CLIP latent space for Video Anomaly Recognition**](https://arxiv.org/pdf/2310.02835) | 2024 | [Code](https://github.com/lucazanella/AnomalyCLIP) | <img src="https://github.com/user-attachments/assets/807b6780-c145-4e66-80bf-ca593e796af8" alt="placeholder" width="75%" height="75%">
 [An Exploratory Study on Human-Centric Video Anomaly Detection through Variational Autoencoders and Trajectory Prediction](https://openaccess.thecvf.com/content/WACV2024W/ASTAD/papers/Noghre_An_Exploratory_Study_on_Human-Centric_Video_Anomaly_Detection_Through_Variational_WACVW_2024_paper.pdf) | 2024 | [Code](https://github.com/TeCSAR-UNCC/TSGAD) | <img src="https://github.com/user-attachments/assets/2a2cb03e-2828-4ed1-b227-74a2891e87da" alt="placeholder" width="75%" height="75%">
+[Holistic Representation Learning for Multitask Trajectory Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024/papers/Stergiou_Holistic_Representation_Learning_for_Multitask_Trajectory_Anomaly_Detection_WACV_2024_paper.pdf) | 2024 | [Code](https://github.com/alexandrosstergiou/TrajREC) | <img src="https://github.com/user-attachments/assets/fba17419-0d29-42eb-a34b-340e876e6286" alt="placeholder" width="75%" height="75%">
+[Deep learning based anomaly detection in real‑time video](https://link.springer.com/content/pdf/10.1007/s11042-024-19116-9.pdf) | 2024 | [Code] | <img src=https://github.com/user-attachments/assets/a942ac3b-87d4-471f-9709-cb58c26a3fe4"" alt="placeholder" width="75%" height="75%">
+[DAST-Net: Dense visual attention augmented spatio-temporal network for unsupervised video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0925231224002157) | 2024 | [Code] | <img src="https://github.com/user-attachments/assets/acdaa956-100b-47fc-8068-3af9318ea791" alt="placeholder" width="75%" height="75%">
+[ANOMALY DETECTION IN SATELLITE VIDEOS USING DIFFUSION MODELS](https://arxiv.org/pdf/2306.05376) | 2024 | [Code](https://github.com/a04101999/Anomaly-Detection-in-Satellite-Videos-using-Diffusion-Models) | <img src="https://github.com/user-attachments/assets/4b631c8f-5256-495d-bc6b-e277bea719ac" alt="placeholder" width="75%" height="75%">
 []() | 2024 | [Code]() | <img src="" alt="placeholder" width="75%" height="75%">
 []() | 2024 | [Code]() | <img src="" alt="placeholder" width="75%" height="75%">
 []() | 2024 | [Code]() | <img src="" alt="placeholder" width="75%" height="75%">
-
-
-
-![FastAno](https://github.com/user-attachments/assets/ccf2be1d-3e85-4837-968c-5a675abeb055)
+[]() | 2024 | [Code]() | <img src="" alt="placeholder" width="75%" height="75%">
+[]() | 2024 | [Code]() | <img src="" alt="placeholder" width="75%" height="75%">
 
 
 
@@ -74,9 +76,12 @@ Paper | Year | Code | Notes
 [TDSD: Text-Driven Scene-Decoupled Weakly Supervised Video Anomaly Detection](https://openreview.net/pdf?id=TAVtkpjS9P) | 2024 | [Code](https://github.com/shengyangsun/TDSD) | <img src="https://github.com/user-attachments/assets/3d95f37d-2c4f-46a5-baed-c5e3b48aec46" alt="placeholder" width="75%" height="75%">
 [A Multi-Head Approach with Shuffled Segments for Weakly-Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024W/RWS/papers/AlMarri_A_Multi-Head_Approach_With_Shuffled_Segments_for_Weakly-Supervised_Video_Anomaly_WACVW_2024_paper.pdf) | 2024 | [Code] | <img src="https://github.com/user-attachments/assets/c5b4fb37-5411-41ba-932e-4166dfc981db" alt="placeholder" width="75%" height="75%">
 [Diffusion-based normality pre-training for weakly supervised video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0957417424008790) | 2024 | [Code] | <img src="https://github.com/user-attachments/assets/d215334b-6b8d-470a-91bb-ec61af6a7ed6" alt="placeholder" width="75%" height="75%">
+[OE-CTST: Outlier-Embedded Cross Temporal Scale Transformer for Weakly-supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024/papers/Majhi_OE-CTST_Outlier-Embedded_Cross_Temporal_Scale_Transformer_for_Weakly-Supervised_Video_Anomaly_WACV_2024_paper.pdf) | 2024 | [Code] | <img src="https://github.com/user-attachments/assets/7f896d73-da00-4065-bfb6-d8531618ce3c" alt="placeholder" width="75%" height="75%">
 []() | 2024 | [Code]() | <img src="" alt="placeholder" width="75%" height="75%">
-
-
+[]() | 2024 | [Code]() | <img src="" alt="placeholder" width="75%" height="75%">
+[]() | 2024 | [Code]() | <img src="" alt="placeholder" width="75%" height="75%">
+[]() | 2024 | [Code]() | <img src="" alt="placeholder" width="75%" height="75%">
+[]() | 2024 | [Code]() | <img src="" alt="placeholder" width="75%" height="75%">
 
 
 
