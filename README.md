@@ -33,14 +33,18 @@
 [CVAD-GAN: Constrained video anomaly detection via generative adversarial network](https://www.sciencedirect.com/science/article/abs/pii/S0262885624000532) | 2024 | [Code](https://github.com/Rituraj-ksi/CVAD-GAN/tree/main) | <img src="https://github.com/user-attachments/assets/27752070-1068-41cc-b048-0f45010b86a8" alt="placeholder" width="75%" height="75%">
 []() | 2024 | [Code]() | 
 [Self-Distilled Masked Auto-Encoders are Efficient Video Anomaly Detectors](https://openaccess.thecvf.com/content/CVPR2024/papers/Ristea_Self-Distilled_Masked_Auto-Encoders_are_Efficient_Video_Anomaly_Detectors_CVPR_2024_paper.pdf) | 2024 | [Code](https://github.com/ristea/aed-mae) | <img src="https://github.com/user-attachments/assets/4e155300-36f3-42af-8801-d3d4a4d98138" alt="placeholder" width="70%" height="70%">
-[VADiffusion: Compressed Domain Information Guided Conditional Diffusion for Video Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10480695) | 2024 | [Code](https://github.com/LHaoooo/VADiffusion) | 
+[VADiffusion: Compressed Domain Information Guided Conditional Diffusion for Video Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10480695) | 2024 | [Code](https://github.com/LHaoooo/VADiffusion) | <img src="https://github.com/user-attachments/assets/1ac6ef10-35eb-48d5-acb4-b63d9deb80cc" alt="placeholder" width="70%" height="70%">
 [A deep learning-assisted visual attention mechanism for anomaly detection in videos](https://link.springer.com/article/10.1007/s11042-023-17770-z) | 2024 | [Code] | 
-[Fast video anomaly detection via context-aware shortcut exploration and abnormal feature distance learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320324006289) | 2024 | [Code]() | 
+[Fast video anomaly detection via context-aware shortcut exploration and abnormal feature distance learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320324006289) | 2024 | [Code]() | <img src="https://github.com/user-attachments/assets/ccf2be1d-3e85-4837-968c-5a675abeb055" alt="placeholder" width="75%" height="75%">
 [**Delving into CLIP latent space for Video Anomaly Recognition**](https://arxiv.org/pdf/2310.02835) | 2024 | [Code](https://github.com/lucazanella/AnomalyCLIP) | <img src="https://github.com/user-attachments/assets/807b6780-c145-4e66-80bf-ca593e796af8" alt="placeholder" width="75%" height="75%">
-[]() | 2024 | [Code]() | 
-[]() | 2024 | [Code]() | 
-[]() | 2024 | [Code]() | 
-[]() | 2024 | [Code]() | 
+[An Exploratory Study on Human-Centric Video Anomaly Detection through Variational Autoencoders and Trajectory Prediction](https://openaccess.thecvf.com/content/WACV2024W/ASTAD/papers/Noghre_An_Exploratory_Study_on_Human-Centric_Video_Anomaly_Detection_Through_Variational_WACVW_2024_paper.pdf) | 2024 | [Code](https://github.com/TeCSAR-UNCC/TSGAD) | <img src="https://github.com/user-attachments/assets/2a2cb03e-2828-4ed1-b227-74a2891e87da" alt="placeholder" width="75%" height="75%">
+[]() | 2024 | [Code]() | <img src="" alt="placeholder" width="75%" height="75%">
+[]() | 2024 | [Code]() | <img src="" alt="placeholder" width="75%" height="75%">
+[]() | 2024 | [Code]() | <img src="" alt="placeholder" width="75%" height="75%">
+
+
+
+![FastAno](https://github.com/user-attachments/assets/ccf2be1d-3e85-4837-968c-5a675abeb055)
 
 
 
@@ -69,8 +73,8 @@ Paper | Year | Code | Notes
 [GlanceVAD: Exploring Glance Supervision for Label-efficient Video Anomaly Detection](https://arxiv.org/pdf/2403.06154) | 2024 | [Code](https://github.com/pipixin321/GlanceVAD) | I3D + Pseudo-labels
 [TDSD: Text-Driven Scene-Decoupled Weakly Supervised Video Anomaly Detection](https://openreview.net/pdf?id=TAVtkpjS9P) | 2024 | [Code](https://github.com/shengyangsun/TDSD) | <img src="https://github.com/user-attachments/assets/3d95f37d-2c4f-46a5-baed-c5e3b48aec46" alt="placeholder" width="75%" height="75%">
 [A Multi-Head Approach with Shuffled Segments for Weakly-Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024W/RWS/papers/AlMarri_A_Multi-Head_Approach_With_Shuffled_Segments_for_Weakly-Supervised_Video_Anomaly_WACVW_2024_paper.pdf) | 2024 | [Code] | <img src="https://github.com/user-attachments/assets/c5b4fb37-5411-41ba-932e-4166dfc981db" alt="placeholder" width="75%" height="75%">
-[Diffusion-based normality pre-training for weakly supervised video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0957417424008790) | 2024 | [Code] | 
-[]() | 2024 | [Code]() | 
+[Diffusion-based normality pre-training for weakly supervised video anomaly detection](https://www.sciencedirect.com/science/article/abs/pii/S0957417424008790) | 2024 | [Code] | <img src="https://github.com/user-attachments/assets/d215334b-6b8d-470a-91bb-ec61af6a7ed6" alt="placeholder" width="75%" height="75%">
+[]() | 2024 | [Code]() | <img src="" alt="placeholder" width="75%" height="75%">
 
 
 
